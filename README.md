@@ -2,8 +2,7 @@
 
 ### Hi, I'm Peter
 
-I am a help desk analyst from Toronto, Canada, transitioning to a software development role, with a focus in web and mobile development.  
-Currently I'm learning React-Redux-Native, Node, and MongoDB through resources such as Freecodecamp and Udemy.
+I am a help desk analyst from Toronto, Canada, transitioning to a software development role, with a focus in web and mobile development. Currently I'm learning React-Redux-Native, Node, and MongoDB through resources such as Freecodecamp and Udemy.
 
 ### Get in touch
 
